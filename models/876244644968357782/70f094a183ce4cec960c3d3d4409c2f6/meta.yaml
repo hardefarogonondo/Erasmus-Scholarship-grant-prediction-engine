@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Software/Erasmus-Scholarship-grant-prediction-engine/notebooks/3_model_training_and_evaluation/../../models/876244644968357782/70f094a183ce4cec960c3d3d4409c2f6/artifacts
+end_time: 1720378901572
+entry_point_name: ''
+experiment_id: '876244644968357782'
+lifecycle_stage: active
+run_id: 70f094a183ce4cec960c3d3d4409c2f6
+run_name: Hyperparameter Tuned-Model
+run_uuid: 70f094a183ce4cec960c3d3d4409c2f6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720378898476
+status: 3
+tags: []
+user_id: harde

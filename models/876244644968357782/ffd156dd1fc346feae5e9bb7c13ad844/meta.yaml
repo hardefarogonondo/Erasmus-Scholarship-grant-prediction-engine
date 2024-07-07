@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/Projects/Software/Erasmus-Scholarship-grant-prediction-engine/notebooks/3_model_training_and_evaluation/../../models/876244644968357782/ffd156dd1fc346feae5e9bb7c13ad844/artifacts
+end_time: 1720378893067
+entry_point_name: ''
+experiment_id: '876244644968357782'
+lifecycle_stage: active
+run_id: ffd156dd1fc346feae5e9bb7c13ad844
+run_name: Untouched Model
+run_uuid: ffd156dd1fc346feae5e9bb7c13ad844
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720378888363
+status: 3
+tags: []
+user_id: harde
